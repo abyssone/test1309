@@ -16,4 +16,8 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+    public static void print() {
+        System.out.println("in new branch");
+    }
 }
