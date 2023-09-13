@@ -18,6 +18,6 @@ public class Main {
     }
 
     public static void print() {
-        System.out.println("in new branch");
+        System.out.println("in super new branch");
     }
 }
